@@ -21,7 +21,7 @@ I enjoy learning how programming, data, and algorithms work together to solve re
 <br>
 • Database fundamentals
 <br>
-•Core concepts of Machine Learning
+• Core concepts of Machine Learning
 
 🤝Looking to Collaborate On:
 <br>
